@@ -57,13 +57,11 @@ Ensure that you have the following prerequisites installed on your machine:
    ```
 **2. Update DB connection string:**
     Open appsettings.json and update the database connection string.
-
 **3.Build and Run the application locally:**
   ```bash
    dotnet build
    dotnet run
    ```
-   
 # License
 
 This project is licensed under the [MIT License](LICENSE).
